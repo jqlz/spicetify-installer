@@ -12,8 +12,7 @@ The **Spicetify Installer** is a user-friendly tool that simplifies the installa
 - **Custom Themes**: Access to a variety of themes that can change the look and feel of your Spotify client.
 - **Customization Options**: Modify Spotify’s appearance and functionality to suit your personal preferences.
 - **Backup & Restore**: Automatically back up your original Spotify settings and restore them whenever needed.
-- **Cross-Platform Support**: Works on Windows, macOS, and Linux.
-
+- 
 ## How It Works
 
 1. **Download the Installer**: Get the latest version of the Spicetify Installer from the [Releases](https://github.com/yourusername/spicetify-installer/releases) page.
@@ -26,15 +25,10 @@ The **Spicetify Installer** is a user-friendly tool that simplifies the installa
 ### Prerequisites
 
 - Ensure you have Spotify installed on your device.
-- Familiarity with command-line interfaces is helpful but not required.
 
 ## Usage
 
 After installation, you can easily apply themes or make further customizations using Spicetify commands. Refer to the official [Spicetify documentation](https://spicetify.app/docs/) for detailed usage instructions.
-
-## Contributing
-
-Contributions are welcome! If you have ideas for new features or improvements, please fork the repository and submit a pull request.
 
 ## License
 
